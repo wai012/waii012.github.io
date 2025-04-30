@@ -1,7 +1,7 @@
-baseURL = "https://hugo-paper.vercel.app/"
-title = "Paper"
-author = "Steve Francia"
-copyright = "© 2025, lee.so"
+baseURL = "https://waii012.github.io/"
+title = "wai"
+author = "waiwai"
+# copyright = "© 2025, lee.so"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
